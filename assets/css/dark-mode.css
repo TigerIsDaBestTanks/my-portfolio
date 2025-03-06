@@ -1,0 +1,13 @@
+body.light {
+    background-color: #ffffff;
+    color: #333;
+}
+
+body.dark {
+    background-color: #000;
+    color: #fff;
+}
+
+header.dark {
+    background-color: #111;
+}
